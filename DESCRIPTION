@@ -18,3 +18,5 @@ Imports:
 Suggests:
   tidyverse
 RoxygenNote: 7.1.2
+URL: https://github.com/nevilleq/example.package
+BugReports: https://github.com/nevilleq/example.package/issues
